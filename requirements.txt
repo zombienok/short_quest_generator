@@ -1,5 +1,4 @@
 ollama
-torch
 transformers
 accelerate
 bitsandbytes
