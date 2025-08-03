@@ -1,4 +1,2 @@
 ollama
-transformers
-accelerate
-bitsandbytes
+pyvis
