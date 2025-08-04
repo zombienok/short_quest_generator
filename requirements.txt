@@ -1,3 +1,4 @@
 ollama
 pyvis
+networkx
 IPython
